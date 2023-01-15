@@ -1,0 +1,26 @@
+{
+  "name": "stevenpoulin_dot_ca",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "devStart": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Casavantii/steven_poulin_dot_ca.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Casavantii/steven_poulin_dot_ca/issues"
+  },
+  "homepage": "https://github.com/Casavantii/steven_poulin_dot_ca#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
